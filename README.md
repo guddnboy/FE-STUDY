@@ -2,6 +2,13 @@
 
 [매일메일](https://www.maeil-mail.kr/) 서비스를 이용하여 기술 지식을 정리합니다.
 
+## 목차
+- 2024년
+  * [12월](https://github.com/guddnboy/FE-STUDY/tree/master/2024%EB%85%84/12%EC%9B%94)
+- 2025년
+  * [1월](https://github.com/guddnboy/FE-STUDY/tree/master/2025%EB%85%84/1%EC%9B%94)
+
+ 
 ## 스터디 목표
 
 프론트 엔드 관련 기술 지식을 다양하게 학습하여 전반적인 지식을 쌓도록 합니다.
